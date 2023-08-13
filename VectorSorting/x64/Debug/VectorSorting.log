@@ -1,0 +1,9 @@
+﻿  CSVparser.cpp
+C:\Users\flapo\source\repos\Visual Studio 22\VectorSorting\CSVparser.cpp(116,27): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\flapo\source\repos\Visual Studio 22\VectorSorting\CSVparser.cpp(121,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\flapo\source\repos\Visual Studio 22\VectorSorting\CSVparser.cpp(203,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  VectorSorting.cpp
+C:\Users\flapo\source\repos\Visual Studio 22\VectorSorting\VectorSorting.cpp(224,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\flapo\source\repos\Visual Studio 22\VectorSorting\VectorSorting.cpp(320,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  VectorSorting.vcxproj -> C:\Users\flapo\source\repos\Visual Studio 22\VectorSorting\x64\Debug\VectorSorting.exe
